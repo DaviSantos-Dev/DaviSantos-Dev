@@ -69,7 +69,7 @@ Meu objetivo é consolidar o Java como stack principal no backend e expandir out
 
 ---
 
-## 🚀 __Filosofia__
+## 💭 __Filosofia__
 
 > _"Programar não é apenas sobre resolver problemas.  
 > É sobre construir soluções com estrutura e clareza, que cresçam e gerem valor real."_
