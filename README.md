@@ -1,37 +1,19 @@
-# 👋 Olá, eu sou Davi Santos
+# 👋 Olá, eu o sou Davi Santos!
 
-💻 **Desenvolvedor Backend em evolução | Java • MySQL • Git**  
+💻 **Desenvolvedor Java em evolução | Spring Boot • SQL • APIs REST**  
 
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Java** e **Programação Orientada a Objetos**.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend utilizando Java e o ecossistema Spring.
 
-Atualmente utilizo projetos próprios como laboratório de aprendizado, explorando conceitos de POO, organização de código e estruturação de sistemas.  
-Tenho interesse em backend e arquitetura de software, buscando evoluir de soluções funcionais para arquiteturas mais bem definidas.
+Desenvolvo APIs REST em projetos próprios, aplicando orientação a objetos, organização em camadas e boas práticas de desenvolvimento.
 
-Meu objetivo é consolidar o Java como stack principal no backend e expandir outras tecnologias complementares.
-
+Interesse em backend e arquitetura de software, com foco em evolução contínua na construção de sistemas bem estruturados.
 ---
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://github.com/DaviSantos-Dev">
-    <img src="https://img.shields.io/badge/GitHub-DaviSantosDev-181717?style=for-the-badge&logo=github" />
-  </a>
-  <br>
-  <a href="https://instagram.com/davi.ctn_santos">
-    <img src="https://img.shields.io/badge/Instagram-@DAVI.CTN_SANTOS-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-</p>
-
----
-
 ## 🧠 Foco técnico atual
 
 - Java ☕
-- Programação Orientada a Objetos (POO)
-- MySQL e modelagem básica de dados
+- Ecossistema Spring
+- PostgreSQL e modelagem de dados
 - Git e versionamento
 - Estruturação de projetos e regras de negócio
 
@@ -39,40 +21,43 @@ Meu objetivo é consolidar o Java como stack principal no backend e expandir out
 
 ## 🛠️ Minhas Stacks
 
-### Backend
+### 🚀 Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/> Spring Boot
 </p>
 
-### Ferramentas
+
+### 🗄️ Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> PostgreSQL
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> MySQL
 </p>
 
-### Em aprendizado
+### ⚙️ Ferramentas
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> Git
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25"/> IntelliJ
+</p>
+
+### 🌱 Explorando
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/> Docker
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="25"/> AWS
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25"/> TypeScript
 </p>
 
 ### Stacks futuras
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-4169E1?style=for-the-badge&logo=react&logoColor=white" />
-  </p>
-
----
-
-## 💭 __Filosofia__
-
-> _"Programar não é apenas sobre resolver problemas.  
-> É sobre construir soluções com estrutura e clareza, que cresçam e gerem valor real."_
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="25"/> Go
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python
+</p>
 
 ---
 
