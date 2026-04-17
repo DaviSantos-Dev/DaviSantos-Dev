@@ -8,7 +8,9 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento
 Desenvolvo APIs REST em projetos próprios, aplicando orientação a objetos, organização em camadas e boas práticas de desenvolvimento.
 
 Interesse em backend e arquitetura de software, com foco em evolução contínua na construção de sistemas bem estruturados.
+
 ---
+
 ## 🧠 Foco técnico atual
 
 - Java ☕
