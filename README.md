@@ -6,22 +6,20 @@
 <span>Estudante de Analise e Desenvolvimento de Sistemas, pela </span> <a href="https://www.unicid.edu.br" target="blank_">Unicid</a> 1/4
 
 ---
-<h2> Melhores Projetos</h2>
 
-<div style="display: flex;">
-<div> 
+<h2> Melhores Projetos</h2>
 
  <h3>Library API 📚</h3>
 <span>API simples para gerenciamento de empréstimos de livros</span> <br>
 
 <span>Tecnologias:</span> <br>
-<span>JDK 21, Spring Boot (web & JPA), H2-Database</span>  
+<span>JDK 21, Spring Boot (web & JPA), H2-Database</span> 
+
+<span>Status: Concluído</span>
 
 <span>Link do Repositório:</span> <a href="https://github.com/DaviSantos-Dev/library-api.git">Library API</a>
 
-</div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div> 
+<h2></h2>
 
 <h3>Order Manager API 📦</h3>
 <span>Sistema de gerenciamento de pedidos, em Java Spring Boot, com DDD Lite e Layered Architecture</span> <br>
@@ -31,10 +29,9 @@
  Spring Boot (Web & SPA),
  PostgreSQL</span>
 
-<span>Link do Repositório:<span> <a href="https://github.com/DaviSantos-Dev/order-manager-api.git"> Order Manager API</a>
+<span>Status: Em desenvolvimento</span>
 
-</div>
-</div>
+<span>Link do Repositório:<span> <a href="https://github.com/DaviSantos-Dev/order-manager-api.git"> Order Manager API</a>
 
 ---
 
@@ -46,6 +43,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,python,go,ts,angular)](https://skillicons.dev) 
 
+---
 
 ## 🧠 Foco técnico atual
 
@@ -54,9 +52,12 @@
 - Docker e AWS para deploy de APIs
 - Git para versionamento
 
+<h2></h2>
+
 ⭐ If you like my work, feel free to star a repository  
 ⭐ Se você gostar do meu trabalho, fique à vontade para favoritar um repositório  
 
 🤝 Open to collaborations and interesting projects  
 🤝 Aberto a colaborações e projetos interessantes
 
+---
