@@ -1,67 +1,58 @@
-# 👋 Olá, eu o sou Davi Santos!
+<h2> 💻 Desenvolvedor Backend focado em Java e Spring Boot</h2>
+<span>Construindo APIs REST, com Spring Boot, e explorando docker e AWS para deploy, e Typescript para fazer front-end consumindo minhas APIs</span>
 
-💻 **Desenvolvedor Java em evolução | Spring Boot • SQL • APIs REST**  
+<span>Além disso, sou interessado em evoluir minhas habilidades com Python, e aprender Golang.</span>
 
-
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend utilizando Java e o ecossistema Spring.
-
-Desenvolvo APIs REST em projetos próprios, aplicando orientação a objetos, organização em camadas e boas práticas de desenvolvimento.
-
-Interesse em backend e arquitetura de software, com foco em evolução contínua na construção de sistemas bem estruturados.
+<span>Estudante de Analise e Desenvolvimento de Sistemas, pela </span> <a href="https://www.unicid.edu.br" target="blank_">Unicid</a> 1/4
 
 ---
+<h2> Melhores Projetos</h2>
+
+<div style="display: flex;">
+<div> 
+
+ <h3>Library API 📚</h3>
+<span>API simples para gerenciamento de empréstimos de livros</span> <br>
+
+<span>Tecnologias:</span> <br>
+<span>JDK 21, Spring Boot (web & JPA), H2-Database</span>  
+
+<span>Link do Repositório:</span> <a href="https://github.com/DaviSantos-Dev/library-api.git">Library API</a>
+
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div> 
+
+<h3>Order Manager API 📦</h3>
+<span>Sistema de gerenciamento de pedidos, em Java Spring Boot, com DDD Lite e Layered Architecture</span> <br>
+
+<span>Tecnologias:</span><br>
+<span>JDK 21,
+ Spring Boot (Web & SPA),
+ PostgreSQL</span>
+
+<span>Link do Repositório:<span> <a href="https://github.com/DaviSantos-Dev/order-manager-api.git"> Order Manager API</a>
+
+</div>
+</div>
+
+---
+
+## Minhas Stacks
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,js)](https://skillicons.dev) 
+
+## Stacks Futuras
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,python,go,ts,angular)](https://skillicons.dev) 
+
 
 ## 🧠 Foco técnico atual
 
-- Java ☕
-- Ecossistema Spring
-- PostgreSQL e modelagem de dados
-- Git e versionamento
-- Estruturação de projetos e regras de negócio
-
----
-
-## 🛠️ Minhas Stacks
-
-### 🚀 Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/> Spring Boot
-</p>
-
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> PostgreSQL
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> MySQL
-</p>
-
-### ⚙️ Ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> Git
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25"/> IntelliJ
-</p>
-
-### 🌱 Explorando
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/> Docker
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="25"/> AWS
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25"/> TypeScript
-</p>
-
-### Stacks futuras
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="25"/> Go
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python
-</p>
-
----
+- Ecossistema Spring (Web, JPA & Security)
+- Bancos de dados SQL
+- Docker e AWS para deploy de APIs
+- Git para versionamento
 
 ⭐ If you like my work, feel free to star a repository  
 ⭐ Se você gostar do meu trabalho, fique à vontade para favoritar um repositório  
